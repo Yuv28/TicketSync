@@ -12,6 +12,11 @@ TicketSync is a customer support platform that allows customers to submit suppor
 ## Overall Architecture:
 <img width="249" height="499" alt="Screenshot 2026-09-22 at 2 20 04 PM" src="https://github.com/user-attachments/assets/a1156362-5f9b-4c04-8497-fae7fe1bf3b6" />
 
+## Tech Stack:
+- Terraform
+- AWS (Lambda, Comprehend, S3, DynamoDB, SES, API Gateway, Cognito
+- React.js
+
 ## What I Worked On:
 - Terraform resource provisioning: I set up the entire AWS environment using Terraform as well as building the frontend and backend integration
 - Lambda functions performing sentiment analysis using AWS Comprehend: tickets are ranked based on sentiment score and assigned different priority levels (low, medium, high) before being stored in DynamoDB

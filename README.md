@@ -10,9 +10,9 @@ TicketSync is a customer support platform that allows customers to submit suppor
 - **Terraform Infrastructure**: Infrastructure as Code for easy deployment
 
 ## What I Worked On:
--- Terraform resource provisioning
--- Lambda functions performing sentiment analysis using AWS Comprehend
--- DynamoDB table to hold the tickets and their calculated sentiment
+- Terraform resource provisioning
+- Lambda functions performing sentiment analysis using AWS Comprehend
+- DynamoDB table to hold the tickets and their calculated sentiment
 
 ## Prerequisites
 

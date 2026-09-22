@@ -19,9 +19,9 @@ TicketSync is a customer support platform that allows customers to submit suppor
 - SES emails sent out to admins based on the high priority tickets in the DynamoDB table that have not already been resolved
 - <img width="200" height="376" alt="Screenshot 2026-09-22 at 2 19 04 PM" src="https://github.com/user-attachments/assets/1f680411-22a9-4190-ab31-ad4b73db7857" />
 - Lambda function for ticket handling:
-- <img width="730" height="521" alt="Screenshot 2026-09-22 at 2 29 12 PM" src="https://github.com/user-attachments/assets/3f63fa92-bf8b-4d87-b982-6463e863c22a" />
-- DynamoDB table:
 - <img width="1375" height="671" alt="Screenshot 2026-09-22 at 2 28 10 PM" src="https://github.com/user-attachments/assets/d6eccb7d-7668-419b-b99c-e2af118a9de4" />
+- DynamoDB table:
+- <img width="730" height="521" alt="Screenshot 2026-09-22 at 2 29 12 PM" src="https://github.com/user-attachments/assets/3f63fa92-bf8b-4d87-b982-6463e863c22a" />
 
 
 ## Prerequisites
